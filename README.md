@@ -11,5 +11,5 @@ Usage:
 
 Command:
 ```
-- source yocto-setup.sh -b <branch_name>
+- source yocto-setup.sh <branch_name>
 ```
